@@ -13,4 +13,4 @@
 
 -Exemples :
 	'bash fs_file.bash ft_putnbr.c void\tft_putnbr(int nbr) day02/ex05/ -main -putchar'.
-
+P.S. : ne pas oublier le tab (\t) entre le type de votre fonction et son nom (void\tft_putchar.....)
